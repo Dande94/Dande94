@@ -2,7 +2,7 @@
 ### Welcome!!! 👋
 
 
-- 🌱 I’m currently learning WEB + PYTHON
+- 🌱 I’m currently learning Front-End
 - 🤔 I’m looking for help with a new job
 - 💬 Ask me about evertything
 - 📫 How to reach me: dande.nunes.94@gmail.com
