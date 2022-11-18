@@ -62,6 +62,6 @@ Here are some ideas to get you started:
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank"></a>
 
-    ![Snake animation](https://github.com/Dande94/Dande94/blob/output/github-contribution-grid-snake.svg)
+    [Snake animation](https://github.com/Dande94/Dande94/blob/output/github-contribution-grid-snake.svg)
 
 </div>
