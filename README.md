@@ -51,6 +51,8 @@ Here are some ideas to get you started:
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
     <img align="center" alt="Dande-JAVA" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Dande-TS" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     
 </div>
 
